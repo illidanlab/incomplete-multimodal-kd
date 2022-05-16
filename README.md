@@ -1,6 +1,8 @@
-# Source code for paper Multimodal Learning with Incomplete Modalities by Knowledge Distillation
+# Multimodal Learning with Incomplete Modalities by Knowledge Distillation
 
-## Instruction
+This is the source code for our paper [Multimodal learning with incomplete modalities by knowledge distillation](https://dl.acm.org/doi/abs/10.1145/3394486.3403234). 
+
+## Description
 `TSModel.py` is to train teacher models and student model
 
 `DNN.py` defines all the teacher and student models
